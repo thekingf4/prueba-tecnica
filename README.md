@@ -25,14 +25,12 @@ Al presionar el boton modo oscuro, debera mostrarse de la siguiente forma.
 
 Aspectos funcionales evaluados:
 
-- Guardado de datos en la base de datos
-- Presentación de los registros en vista de tabla
-- Validación y sanitización de datos desde el servidor
-- Fidelidad de front-end respecto del PSD entregado
+- Fidelidad de front-end respecto de las imagenes entregadas
 - Validación de campos en el front-end
+- simulación de la busqueda y mostrado de la información
 
 Aspectos cualitativos evaluados:
 
 - Estructura del código
 - Uso de buenas prácticas
-- Uso de frameworks
+- Uso de frameworks (Vue o react)
